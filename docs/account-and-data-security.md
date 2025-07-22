@@ -14,7 +14,7 @@ For decades, we were taught to create passwords like `Tr0ub4dor&3`—short, comp
 
 > **The Golden Rule: Never reuse passwords.** Using the same password for multiple services is like using the same key for your house, your car, and your office. If a thief gets one key, they have access to everything. A data breach at one website could lead to all your accounts being compromised.
 
-![A comic by xkcd that explains how password strength is calculated. It compares a hard-to-remember password like 'Tr0ub4dor&3' with a hard-to-guess but easy-to-remember one like 'correct horse battery staple'.](https://imgs.xkcd.com/comics/password_strength.png)
+![A comic by xkcd that explains how password strength is calculated. It compares a hard to remember password like 'Tr0ub4dor&3' with a hard-to-guess but easy-to-remember one like 'correct horse battery staple'.](https://imgs.xkcd.com/comics/password_strength.png)
 
 ### Password Managers
 
