@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: 'PrivacyActivistKit2',
+  base: '/PrivacyActivistKit2/',
   title: "Privacy Activist Kit",
   description: "A complete guide to digital self-defense for activists, journalists, and everyone else.",
   themeConfig: {
