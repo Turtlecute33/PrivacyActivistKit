@@ -16,23 +16,23 @@ hero:
 
 features:
 
-  - title: 📖 Easy to Understand
-    details: Simple and clear language
-
-  - title: 🌍 Open and Transparent
-    details: Open source and community led
+  - title: 🕊️ For Privacy and Freedom  
+    details: Made for people resisting control
 
   - title: 🙅‍♀️ No Trackers Ever
     details: Fully private with zero analytics or ads
 
-  - title: 🌐 Ready for Any Context
+  - title: 🌍 Open and Transparent
+    details: Open source and community led
+
+  - title: 🎒 Ready for Any Context
     details: Works for protests, classrooms, or daily life
 
-  - title: 🔐 Built for Real World Impact
-    details: Helps protect against real threats
+  - title: 📖 Easy to Understand
+    details: Simple and clear language
 
-  - title: 🧠 No Hype Just Facts
-    details: Honest and practical advice
+  - title: 🧩 Modular and Adaptable
+    details: Use what you need, skip what you don’t 
 
 
 
