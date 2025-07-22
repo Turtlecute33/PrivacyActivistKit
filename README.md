@@ -64,7 +64,3 @@ That means:
 This kit was made with care. We hope it helps you feel a little more powerful and a little more protected online.
 
 Stay safe out there ✨
-
-<div class="next-section-button-container">
-<p align="right"><a href="#/introduction" class="next-section-button">Next Section →</a></p>
-</div>
