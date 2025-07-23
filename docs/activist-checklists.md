@@ -1,51 +1,40 @@
 <style>
-  summary {
-    color: #9f75e7ff; /* Dusty Lavender - readable on light and dark */
-    cursor: pointer;
-  }
+  input[type="checkbox"] {
+  transform: scale(1.2);     /* Increase size (1.5x normal) */
+  margin-right: 8px;         /* Optional: space between checkbox and text */
+  vertical-align: middle;    /* Keeps checkbox aligned with text */
+}
 
-  summary:hover {
-    color: #9370DB; /* Optional: a darker purple on hover */
-  }
 </style>
 
 # Activist Digital Security Checklists
-::: tip
+
 Plain language steps for digital security, because protecting yourself helps keep your whole community safer. Built by activists, for activists with field-tested, community-verified guides.
+
+::: warning
+I'm still tweaking the sections on this page. All the checklists are correct and useful, but I'm still fixing some of the recommendations. Do your own research on the tools mentioned on this specific page.
 :::
 
 ## ✈️ Travel & Flight Security
 
 *Checklist for both domestic and international flights. Also applies to land/sea border crossings.*
 
-[ ] &nbsp;**What are your rights when crossing the border**
-  <details>
-  <summary>More info</summary>
-  
+::: details &nbsp; [ ] &nbsp;**What are your rights when crossing the border**
   We have summarized some information below, but we strongly recommend you read these articles to familiarize yourself with the nuances. Border police CAN search any electronic device at airports/borders without a warrant, regardless of your status. Your rights depend on your immigration status: US Citizens cannot be denied entry and must only answer identity questions. Green Card Holders cannot be denied entry without a hearing. Visa Holders can be denied entry for refusing searches.
+:::
 
-  **📚 Read More:**
-  - [Know Your Rights travel guide from Stop AAPI Hate](https://stopaapihate.org/)
-  - [Is it safe to travel with your phone right now? - The Verge](https://www.theverge.com/)
-  - [Can border agents search your electronic devices? - ACLU](https://www.aclu.org/)
-
-  </details>
-
-[ ] &nbsp;**How to fully power down your device**
-  <details>
-  <summary>More info</summary>
+::: details &nbsp; [ ] &nbsp;**How to fully power down your device**
+  We have summarized some information below, but we strongly recommend you read these articles to familiarize yourself with the nuances. Border police CAN search any electronic device at airports/borders without a warrant, regardless of your status. Your rights depend on your immigration status: US Citizens cannot be denied entry and must only answer identity questions. Green Card Holders cannot be denied entry without a hearing. Visa Holders can be denied entry for refusing searches.
 
   **Android:** Press and hold the power button and select Power off.
 
   **iPhone:** Press and hold power and volume down buttons, then slide to power off.
 
   **Laptop:** Select Shut down from your system menu. In an emergency, almost all laptops can be forced to power down by pressing and holding the power button for 5-10 seconds.
+:::
 
-  </details>
-
-[ ] &nbsp;**Which apps to uninstall**
-  <details>
-  <summary>More info</summary>
+::: details &nbsp; [ ] &nbsp;**Which apps to uninstall**
+  We have summarized some information below, but we strongly recommend you read these articles to familiarize yourself with the nuances. Border police CAN search any electronic device at airports/borders without a warrant, regardless of your status. Your rights depend on your immigration status: US Citizens cannot be denied entry and must only answer identity questions. Green Card Holders cannot be denied entry without a hearing. Visa Holders can be denied entry for refusing searches.
 
   Consider uninstalling Signal, email & calendar apps, social media apps, docs & notes (Google Docs, Evernote), communication apps (Slack, WhatsApp), and Google Maps. Apps on iPhone can be hidden by long-pressing the app > Require Face ID > Hide and Require Face ID.
 
@@ -56,22 +45,18 @@ Plain language steps for digital security, because protecting yourself helps kee
   - Docs & notes (Google Docs, Evernote, etc.)
   - Communication apps (Slack, WhatsApp, etc.)
   - Google Maps
+:::
 
-  </details>
-
-[ ] &nbsp;**How to safely remove your password manager**
-  <details>
-  <summary>More info</summary>
+::: details &nbsp; [ ] &nbsp;**How to safely remove your password manager**
+  We have summarized some information below, but we strongly recommend you read these articles to familiarize yourself with the nuances. Border police CAN search any electronic device at airports/borders without a warrant, regardless of your status. Your rights depend on your immigration status: US Citizens cannot be denied entry and must only answer identity questions. Green Card Holders cannot be denied entry without a hearing. Visa Holders can be denied entry for refusing searches.
 
   Make absolutely sure you have memorized or written down your master password before uninstalling. For 1Password users, also write down your Secret Key. You can travel with this information if you don't think your possessions will be searched. Keep passwords written on paper in a journal or dayplanner, or have a trusted person share them via secure channel.
 
   **⚠️ Important:** Never delete your Two-Factor Authentication (2FA) codes - these are hard to restore and not useful unless someone also has your password.
+:::
 
-  </details>
-
-[ ] &nbsp;**How to change your passcode**
-  <details>
-  <summary>More info</summary>
+::: details &nbsp; [ ] &nbsp;**How to change your passcode**
+  We have summarized some information below, but we strongly recommend you read these articles to familiarize yourself with the nuances. Border police CAN search any electronic device at airports/borders without a warrant, regardless of your status. Your rights depend on your immigration status: US Citizens cannot be denied entry and must only answer identity questions. Green Card Holders cannot be denied entry without a hearing. Visa Holders can be denied entry for refusing searches.
 
   Generate a random 10-digit passcode (don't make one up yourself).
 
@@ -80,24 +65,20 @@ Plain language steps for digital security, because protecting yourself helps kee
   **Android:** Settings > Security > Screen Lock > Enter Current Lock > PIN/Password > Choose 10-digit Passcode
 
   Write your new passcode on paper and keep it safe until memorized.
+:::
 
-  </details>
-
-[ ] &nbsp;**Encrypting Laptops**
-  <details>
-  <summary>More info</summary>
+::: details &nbsp; [ ] &nbsp;**Encrypting Laptops**
+  We have summarized some information below, but we strongly recommend you read these articles to familiarize yourself with the nuances. Border police CAN search any electronic device at airports/borders without a warrant, regardless of your status. Your rights depend on your immigration status: US Citizens cannot be denied entry and must only answer identity questions. Green Card Holders cannot be denied entry without a hearing. Visa Holders can be denied entry for refusing searches.
 
   Encryption may need to be enabled on your laptop.
 
   **MacOS:** System Settings > Privacy & Security [scroll to bottom] > FileVault > Turn on, save Recovery Key securely, do not enable iCloud recovery.
 
   **Windows:** Settings > Privacy & Security > Device encryption.
+:::
 
-  </details>
-
-[ ] &nbsp;**How to hide or deactivate social media accounts**
-  <details>
-  <summary>More info</summary>
+::: details &nbsp; [ ] &nbsp;**How to hide or deactivate social media accounts**
+  We have summarized some information below, but we strongly recommend you read these articles to familiarize yourself with the nuances. Border police CAN search any electronic device at airports/borders without a warrant, regardless of your status. Your rights depend on your immigration status: US Citizens cannot be denied entry and must only answer identity questions. Green Card Holders cannot be denied entry without a hearing. Visa Holders can be denied entry for refusing searches.
 
   Make Twitter/X private or deactivate, LinkedIn private or deactivate, Instagram private or deactivate, Facebook private or deactivate, TikTok private or deactivate. Consider hiding public posts like blogs and YouTube videos. Use Block Party to assist with this process.
 
@@ -107,12 +88,10 @@ Plain language steps for digital security, because protecting yourself helps kee
   - Instagram: make private or deactivate
   - Facebook: make private or deactivate
   - TikTok: make private or deactivate
+:::
 
-  </details>
-
-[ ] &nbsp;**How to set up IVPN**
-  <details>
-  <summary>More info</summary>
+::: details &nbsp; [ ] &nbsp;**How to set up IVPN**
+  We have summarized some information below, but we strongly recommend you read these articles to familiarize yourself with the nuances. Border police CAN search any electronic device at airports/borders without a warrant, regardless of your status. Your rights depend on your immigration status: US Citizens cannot be denied entry and must only answer identity questions. Green Card Holders cannot be denied entry without a hearing. Visa Holders can be denied entry for refusing searches.
 
   Go to IVPN and click Generate IVPN Account ($6/month or $60/year). Write down your Account ID somewhere safe - you cannot recover it. Download apps for computer and phone, enable launch at login, autoconnect on launch, and background daemon management. Keep VPN on at all times unless having connection issues.
 
@@ -122,18 +101,14 @@ Plain language steps for digital security, because protecting yourself helps kee
   3. **Important:** Write down Account ID - cannot be recovered if lost
   4. Download apps for [Mac](https://www.ivpn.net/apps-macos/), [Windows](https://www.ivpn.net/apps-windows/), [iPhone](https://apps.apple.com/app/ivpn/id1193122683), [Android](https://play.google.com/store/apps/details?id=net.ivpn.client)
   5. Configure: Launch at login, Autoconnect on launch, Allow background daemon
-
-  </details>
-
----
+:::
 
 ## 🏛️ Digital Security for Federal Workers
 
 *For federal workers who are resisting the authoritarian takeover and want to protect themselves and each other.*
 
-[ ] &nbsp;**How to set up Signal**
-  <details>
-  <summary>More info</summary>
+::: details &nbsp; [ ] &nbsp;**How to set up Signal**
+  We have summarized some information below, but we strongly recommend you read these articles to familiarize yourself with the nuances. Border police CAN search any electronic device at airports/borders without a warrant, regardless of your status. Your rights depend on your immigration status: US Citizens cannot be denied entry and must only answer identity questions. Green Card Holders cannot be denied entry without a hearing. Visa Holders can be denied entry for refusing searches.
 
   Install Signal on your phone, message existing contacts (they must have Signal installed), enable disappearing messages by default and for existing threads. Follow the Signal Checklist for maximum security and privacy.
 
@@ -142,12 +117,10 @@ Plain language steps for digital security, because protecting yourself helps kee
   2. Message existing contacts who have Signal
   3. Enable disappearing messages by default
   4. Follow the complete [Signal Checklist](#signal-security-checklist) below
+:::
 
-  </details>
-
-[ ] &nbsp;**How to change your profile**
-  <details>
-  <summary>More info</summary>
+::: details &nbsp; [ ] &nbsp;**How to change your profile**
+  We have summarized some information below, but we strongly recommend you read these articles to familiarize yourself with the nuances. Border police CAN search any electronic device at airports/borders without a warrant, regardless of your status. Your rights depend on your immigration status: US Citizens cannot be denied entry and must only answer identity questions. Green Card Holders cannot be denied entry without a hearing. Visa Holders can be denied entry for refusing searches.
 
   Change your Signal display name: Signal > Settings > Tap name/icon > Edit profile display name. Change profile photo: Upload a generic photo from online that doesn't relate to your identity, preferences, interests, or location.
 
@@ -155,12 +128,10 @@ Plain language steps for digital security, because protecting yourself helps kee
   - Use a generic display name unrelated to your real identity
   - Use a generic profile photo from online
   - Avoid photos that reveal location, preferences, or interests
+:::
 
-  </details>
-
-[ ] &nbsp;**How to set your social media profile to be private**
-  <details>
-  <summary>More info</summary>
+::: details &nbsp; [ ] &nbsp;**How to set your social media profile to be private**
+  We have summarized some information below, but we strongly recommend you read these articles to familiarize yourself with the nuances. Border police CAN search any electronic device at airports/borders without a warrant, regardless of your status. Your rights depend on your immigration status: US Citizens cannot be denied entry and must only answer identity questions. Green Card Holders cannot be denied entry without a hearing. Visa Holders can be denied entry for refusing searches.
 
   **LinkedIn:** Go to Edit Profile > Edit Visibility and adjust settings. Consider fully hibernating your profile temporarily. Tighten other visibility settings and review your activity feed. 
 
@@ -170,12 +141,10 @@ Plain language steps for digital security, because protecting yourself helps kee
   - Review and delete sensitive posts from your feed
   - Consider temporarily hibernating profiles during sensitive periods
   - Adjust all visibility settings to maximum privacy
+:::
 
-  </details>
-
-[ ] &nbsp;**How to set up Brave Browser**
-  <details>
-  <summary>More info</summary>
+::: details &nbsp; [ ] &nbsp;**How to set up Brave Browser**
+  We have summarized some information below, but we strongly recommend you read these articles to familiarize yourself with the nuances. Border police CAN search any electronic device at airports/borders without a warrant, regardless of your status. Your rights depend on your immigration status: US Citizens cannot be denied entry and must only answer identity questions. Green Card Holders cannot be denied entry without a hearing. Visa Holders can be denied entry for refusing searches.
 
   Install Brave browser (privacy-focused, supports Chrome extensions). Configure Settings > Shields: Select 'Aggressive' for trackers & ads blocking, 'Strict' for HTTPS upgrade, uncheck social media blocking. Optionally enable 'Forget me when I close this site' and disable new tab page.
 
@@ -186,12 +155,10 @@ Plain language steps for digital security, because protecting yourself helps kee
   4. Select "Strict" for HTTPS upgrade
   5. Uncheck all social media blocking options
   6. Optional: Enable "Forget me when I close this site"
+:::
 
-  </details>
-
-[ ] &nbsp;**How to physically secure devices**
-  <details>
-  <summary>More info</summary>
+::: details &nbsp; [ ] &nbsp;**How to physically secure devices**
+  We have summarized some information below, but we strongly recommend you read these articles to familiarize yourself with the nuances. Border police CAN search any electronic device at airports/borders without a warrant, regardless of your status. Your rights depend on your immigration status: US Citizens cannot be denied entry and must only answer identity questions. Green Card Holders cannot be denied entry without a hearing. Visa Holders can be denied entry for refusing searches.
 
   Make sure devices are powered down at end of day and when discussing dissent in your house. Keep devices away in drawer, closet, or room with door closed to ensure conversations aren't overheard if microphone were somehow still on.
 
@@ -200,12 +167,10 @@ Plain language steps for digital security, because protecting yourself helps kee
   - Store powered-off devices away from discussion areas
   - Use drawers, closets, or separate rooms with doors closed
   - Never leave devices on during sensitive conversations
+:::
 
-  </details>
-
-[ ] &nbsp;**How to enable and use a guest network**
-  <details>
-  <summary>More info</summary>
+::: details &nbsp; [ ] &nbsp;**How to enable and use a guest network**
+  We have summarized some information below, but we strongly recommend you read these articles to familiarize yourself with the nuances. Border police CAN search any electronic device at airports/borders without a warrant, regardless of your status. Your rights depend on your immigration status: US Citizens cannot be denied entry and must only answer identity questions. Green Card Holders cannot be denied entry without a hearing. Visa Holders can be denied entry for refusing searches.
 
   Look at your Wi-Fi router for model/brand. Use Brave Search to find instructions for enabling guest network on your router. Set up Wi-Fi network with different name than main network. On government phone/laptop, forget main network and connect to guest network instead.
 
@@ -215,12 +180,10 @@ Plain language steps for digital security, because protecting yourself helps kee
   3. Create guest network with different name
   4. On government devices: Forget main network
   5. Connect government devices to guest network only
+:::
 
-  </details>
-
-[ ] &nbsp;**How to use Proton Docs**
-  <details>
-  <summary>More info</summary>
+::: details &nbsp; [ ] &nbsp;**How to use Proton Docs**
+  We have summarized some information below, but we strongly recommend you read these articles to familiarize yourself with the nuances. Border police CAN search any electronic device at airports/borders without a warrant, regardless of your status. Your rights depend on your immigration status: US Citizens cannot be denied entry and must only answer identity questions. Green Card Holders cannot be denied entry without a hearing. Visa Holders can be denied entry for refusing searches.
 
   Create free Proton account if needed. Visit Proton Drive > Click 'New' > Select 'New Document'. When ready to share, click 'Share' button and either share with other Proton accounts or enable 'Create public link' for those without Proton accounts. Be careful where you share the link.
 
@@ -230,64 +193,52 @@ Plain language steps for digital security, because protecting yourself helps kee
   3. For sharing: Click "Share" button
   4. Choose: Share with Proton users OR create public link
   5. **⚠️ Caution:** Be very careful where you share public links
-
-  </details>
-
----
+:::
 
 ## 📱 Signal Security Checklist
 
 *Configure Signal to protect your messages and calls*
 
-[ ] &nbsp;**How to enable disappearing messages**
-  <details>
-  <summary>More info</summary>
+::: details &nbsp; [ ] &nbsp;**How to enable disappearing messages**
+  We have summarized some information below, but we strongly recommend you read these articles to familiarize yourself with the nuances. Border police CAN search any electronic device at airports/borders without a warrant, regardless of your status. Your rights depend on your immigration status: US Citizens cannot be denied entry and must only answer identity questions. Green Card Holders cannot be denied entry without a hearing. Visa Holders can be denied entry for refusing searches.
 
   **To change default:** Signal > Settings > Privacy > Disappearing Messages > Set to desired time. 
 
   **For existing threads:** Signal > Open thread > Click person/group name > Disappearing Messages > Set time. 
 
   **⚠️ Note:** Disappearing messages does NOT apply retroactively, so delete old threads manually.
+:::
 
-  </details>
-
-[ ] &nbsp;**How to disable Signal notifications**
-  <details>
-  <summary>More info</summary>
+::: details &nbsp; [ ] &nbsp;**How to disable Signal notifications**
+  We have summarized some information below, but we strongly recommend you read these articles to familiarize yourself with the nuances. Border police CAN search any electronic device at airports/borders without a warrant, regardless of your status. Your rights depend on your immigration status: US Citizens cannot be denied entry and must only answer identity questions. Green Card Holders cannot be denied entry without a hearing. Visa Holders can be denied entry for refusing searches.
 
   Open Signal > Settings > Notifications > Notification Content > Select 'No Name or Content'. This prevents sensitive information from appearing in notifications when your phone is locked.
 
   **Why this matters:** Prevents sensitive contact names and message content from appearing on your lock screen.
+:::
 
-  </details>
-
-[ ] &nbsp;**How to hide screen in App Switcher**
-  <details>
-  <summary>More info</summary>
+::: details &nbsp; [ ] &nbsp;**How to hide screen in App Switcher**
+  We have summarized some information below, but we strongly recommend you read these articles to familiarize yourself with the nuances. Border police CAN search any electronic device at airports/borders without a warrant, regardless of your status. Your rights depend on your immigration status: US Citizens cannot be denied entry and must only answer identity questions. Green Card Holders cannot be denied entry without a hearing. Visa Holders can be denied entry for refusing searches.
 
   **iPhone:** Signal > Settings > Privacy > Enable 'Screen Lock' then enable 'Hide Screen in App Switcher'.
 
   **Android:** Signal > Settings > Privacy > Enable 'Screen lock' then enable 'Screen Security'.
 
   **Benefit:** Prevents Signal content from being visible when switching between apps.
+:::
 
-  </details>
-
-[ ] &nbsp;**How to change your profile**
-  <details>
-  <summary>More info</summary>
+::: details &nbsp; [ ] &nbsp;**How to change your profile**
+  We have summarized some information below, but we strongly recommend you read these articles to familiarize yourself with the nuances. Border police CAN search any electronic device at airports/borders without a warrant, regardless of your status. Your rights depend on your immigration status: US Citizens cannot be denied entry and must only answer identity questions. Green Card Holders cannot be denied entry without a hearing. Visa Holders can be denied entry for refusing searches.
 
   **Change display name:** Signal > Settings > Tap name/icon > Edit profile display name. 
 
   **Change photo:** Signal > Settings > Tap name/icon > Edit photo > Upload generic photo unrelated to your identity/preferences/interests/location.
 
   **Security Tip:** Use names and photos that don't reveal your real identity or preferences.
+:::
 
-  </details>
-
-[ ] &nbsp;**How to enable usernames and hide your phone number**
-  <details>
-  <summary>More info</summary>
+::: details &nbsp; [ ] &nbsp;**How to enable usernames and hide your phone number**
+  We have summarized some information below, but we strongly recommend you read these articles to familiarize yourself with the nuances. Border police CAN search any electronic device at airports/borders without a warrant, regardless of your status. Your rights depend on your immigration status: US Citizens cannot be denied entry and must only answer identity questions. Green Card Holders cannot be denied entry without a hearing. Visa Holders can be denied entry for refusing searches.
 
   First change your profile display name if it's your full name. 
 
@@ -296,48 +247,38 @@ Plain language steps for digital security, because protecting yourself helps kee
   **Hide number:** Signal > Settings > Privacy > Phone Number > 'Who Can See My Number' > Select 'Nobody'.
 
   **Sharing:** Share your username instead of phone number for new contacts.
+:::
 
-  </details>
-
-[ ] &nbsp;**How to disable link previews**
-  <details>
-  <summary>More info</summary>
+::: details &nbsp; [ ] &nbsp;**How to disable link previews**
+  We have summarized some information below, but we strongly recommend you read these articles to familiarize yourself with the nuances. Border police CAN search any electronic device at airports/borders without a warrant, regardless of your status. Your rights depend on your immigration status: US Citizens cannot be denied entry and must only answer identity questions. Green Card Holders cannot be denied entry without a hearing. Visa Holders can be denied entry for refusing searches.
 
   Signal > Settings > Chats > Disable 'Generate Link Previews'. This prevents Signal from automatically fetching and displaying previews of links you send, which could reveal your IP address to third-party websites.
 
   **Privacy Benefit:** Prevents your IP address from being revealed to external websites when you share links.
-
-  </details>
-
----
+:::
 
 ## 📢 Digital Security for Direct Action Organizing
 
 *For anyone organizing a direct action or protest where the risk of surveillance and arrest is higher.*
 
-[ ] &nbsp;**Follow Security Essentials checklist**
-  <details>
-  <summary>More info</summary>
+::: details &nbsp; [ ] &nbsp;**Follow Security Essentials checklist**
+  We have summarized some information below, but we strongly recommend you read these articles to familiarize yourself with the nuances. Border police CAN search any electronic device at airports/borders without a warrant, regardless of your status. Your rights depend on your immigration status: US Citizens cannot be denied entry and must only answer identity questions. Green Card Holders cannot be denied entry without a hearing. Visa Holders can be denied entry for refusing searches.
 
   Do everything in the Security Essentials checklist, including the 'enhanced security' section. This provides the foundation for secure organizing communications and practices.
 
   **Reference:** Complete the [Security Essentials](#security-essentials) checklist below as your foundation.
+:::
 
-  </details>
-
-[ ] &nbsp;**Follow Prepare for a Protest checklist**
-  <details>
-  <summary>More info</summary>
+::: details &nbsp; [ ] &nbsp;**Follow Prepare for a Protest checklist**
+  We have summarized some information below, but we strongly recommend you read these articles to familiarize yourself with the nuances. Border police CAN search any electronic device at airports/borders without a warrant, regardless of your status. Your rights depend on your immigration status: US Citizens cannot be denied entry and must only answer identity questions. Green Card Holders cannot be denied entry without a hearing. Visa Holders can be denied entry for refusing searches.
 
   Do everything in the Prepare for a Protest checklist, including the 'enhanced security' section. This ensures you're protected during higher-risk activities.
 
   **Reference:** Complete the [Prepare for a Protest](#prepare-for-a-protest) checklist below.
+:::
 
-  </details>
-
-[ ] &nbsp;**How to set up secure Signal**
-  <details>
-  <summary>More info</summary>
+::: details &nbsp; [ ] &nbsp;**How to set up secure Signal**
+  We have summarized some information below, but we strongly recommend you read these articles to familiarize yourself with the nuances. Border police CAN search any electronic device at airports/borders without a warrant, regardless of your status. Your rights depend on your immigration status: US Citizens cannot be denied entry and must only answer identity questions. Green Card Holders cannot be denied entry without a hearing. Visa Holders can be denied entry for refusing searches.
 
   Install Signal, set username (ex: @cloudy.52) and share this instead of phone number. Set default disappearing messages to 1 week for new chats, shorter as action approaches (1 hour or 5 minutes day-of). Disable Signal notifications so they aren't visible when phone is locked.
 
@@ -346,12 +287,10 @@ Plain language steps for digital security, because protecting yourself helps kee
   - **Week of action:** 1 day  
   - **Day of action:** 1 hour or 5 minutes
   - **During action:** Consider 5 minutes or less
+:::
 
-  </details>
-
-[ ] &nbsp;**How to set up and use CryptPad**
-  <details>
-  <summary>More info</summary>
+::: details &nbsp; [ ] &nbsp;**How to set up and use CryptPad**
+  We have summarized some information below, but we strongly recommend you read these articles to familiarize yourself with the nuances. Border police CAN search any electronic device at airports/borders without a warrant, regardless of your status. Your rights depend on your immigration status: US Citizens cannot be denied entry and must only answer identity questions. Green Card Holders cannot be denied entry without a hearing. Visa Holders can be denied entry for refusing searches.
 
   Create account at cryptpad.fr. Enable doc password if containing sensitive information. Enable auto-deletion when possible to reduce digital paper trail after action. For sharing: use Share button > Link > Select 'View' or 'Edit' > Copy URL (don't just copy-paste the URL like Google Docs).
 
@@ -361,12 +300,10 @@ Plain language steps for digital security, because protecting yourself helps kee
   3. Enable auto-deletion when possible
   4. **Sharing:** Use Share button > Link > Select permissions > Copy URL
   5. **⚠️ Important:** Don't just copy-paste URL from browser
+:::
 
-  </details>
-
-[ ] &nbsp;**How to establish digital security agreements**
-  <details>
-  <summary>More info</summary>
+::: details &nbsp; [ ] &nbsp;**How to establish digital security agreements**
+  We have summarized some information below, but we strongly recommend you read these articles to familiarize yourself with the nuances. Border police CAN search any electronic device at airports/borders without a warrant, regardless of your status. Your rights depend on your immigration status: US Citizens cannot be denied entry and must only answer identity questions. Green Card Holders cannot be denied entry without a hearing. Visa Holders can be denied entry for refusing searches.
 
   Create phone security agreements around who brings phones and security level needed. Send participants link to protest checklist. For high-arrest-risk folks, suggest leaving phone home, bringing secondary phone, or following enhanced security. Create photo privacy agreements for how photos are shared and face protection.
 
@@ -375,12 +312,10 @@ Plain language steps for digital security, because protecting yourself helps kee
   - **Photo Privacy:** How photos shared, face protection protocols  
   - **Arrest Risk:** Special measures for high-risk participants
   - **Communication:** Secure channels and protocols
+:::
 
-  </details>
-
-[ ] &nbsp;**How to protect against doxing attacks**
-  <details>
-  <summary>More info</summary>
+::: details &nbsp; [ ] &nbsp;**How to protect against doxing attacks**
+  We have summarized some information below, but we strongly recommend you read these articles to familiarize yourself with the nuances. Border police CAN search any electronic device at airports/borders without a warrant, regardless of your status. Your rights depend on your immigration status: US Citizens cannot be denied entry and must only answer identity questions. Green Card Holders cannot be denied entry without a hearing. Visa Holders can be denied entry for refusing searches.
 
   Lock down social media privacy settings (Facebook, Twitter, Instagram, especially LinkedIn with workplace/location). Remove data from brokers using DeleteMe service or manually. Consider PO Box instead of street address for packages/accounts/payments, especially if moving soon.
 
@@ -391,18 +326,14 @@ Plain language steps for digital security, because protecting yourself helps kee
   - Consider PO Box for address privacy
 
   **📚 Detailed Guide:** [Equality Labs Anti-Doxing Guide](https://www.equalitylabs.org/anti-doxing-guide) (start at page 25)
-
-  </details>
-
----
+:::
 
 ## 🔍 Action Research & Scouting
 
 *For anyone doing sensitive online research or in-person scouting who wants to protect their identity.*
 
-[ ] &nbsp;**How to use private navigation**
-  <details>
-  <summary>More info</summary>
+::: details &nbsp; [ ] &nbsp;**How to use private navigation**
+  We have summarized some information below, but we strongly recommend you read these articles to familiarize yourself with the nuances. Border police CAN search any electronic device at airports/borders without a warrant, regardless of your status. Your rights depend on your immigration status: US Citizens cannot be denied entry and must only answer identity questions. Green Card Holders cannot be denied entry without a hearing. Visa Holders can be denied entry for refusing searches.
 
   Use Organic Maps (iPhone, Android) for most private mapping when getting directions for scouting. Best to save 'offline map' for region needed. Alternatively, print paper directions. Apple Maps also offers good privacy with offline maps saved. Disable location services and keep phone in airplane mode while scouting from time you leave house until you return.
 
@@ -422,18 +353,14 @@ Plain language steps for digital security, because protecting yourself helps kee
   - Keep phone in airplane mode
   - Leave smart watches at home
   - Disable Bluetooth trackers
-
-  </details>
-
----
+:::
 
 ## 📱 Secondary Phone Checklist
 
 *How to set up an alternate phone for actions and activism that has less data. For anyone who is higher risk of arrest who wants to invest in protecting their data.*
 
-[ ] &nbsp;**Understand 'Burner Phone' vs 'Secondary Phone'**
-  <details>
-  <summary>More info</summary>
+::: details &nbsp; [ ] &nbsp;**Understand 'Burner Phone' vs 'Secondary Phone'**
+  We have summarized some information below, but we strongly recommend you read these articles to familiarize yourself with the nuances. Border police CAN search any electronic device at airports/borders without a warrant, regardless of your status. Your rights depend on your immigration status: US Citizens cannot be denied entry and must only answer identity questions. Green Card Holders cannot be denied entry without a hearing. Visa Holders can be denied entry for refusing searches.
 
   **Burner phone:** Truly anonymous, disconnected from identity, used few times before discarding - requires great effort for true anonymity. 
 
@@ -444,12 +371,10 @@ Plain language steps for digital security, because protecting yourself helps kee
   - Likely to be targeted based on identity (POC, LGBTQ+, documentation status, etc.)  
   - Working with targeted communities
   - Someone with very sensitive data on your phone
+:::
 
-  </details>
-
-[ ] &nbsp;**What data am I protecting?**
-  <details>
-  <summary>More info</summary>
+::: details &nbsp; [ ] &nbsp;**What data am I protecting?**
+  We have summarized some information below, but we strongly recommend you read these articles to familiarize yourself with the nuances. Border police CAN search any electronic device at airports/borders without a warrant, regardless of your status. Your rights depend on your immigration status: US Citizens cannot be denied entry and must only answer identity questions. Green Card Holders cannot be denied entry without a hearing. Visa Holders can be denied entry for refusing searches.
 
   Your phone contains: all contacts (friends, family, organizers/activists), location data and map history (can determine where you've been and who you've met), message history (texts, Signal, WhatsApp), years of email history, browser history/bookmarks/passwords, all photos (including of other people without their consent), calendar events (meetings - who, when, where), documents (Google docs, encrypted tools if signed in).
 
@@ -461,12 +386,10 @@ Plain language steps for digital security, because protecting yourself helps kee
   - **Calendar:** Meeting details reveal organizing activities  
   - **Browser Data:** Search history, bookmarks, saved passwords
   - **Documents:** Google Docs, encrypted tools if logged in
+:::
 
-  </details>
-
-[ ] &nbsp;**What you'll need**
-  <details>
-  <summary>More info</summary>
+::: details &nbsp; [ ] &nbsp;**What you'll need**
+  We have summarized some information below, but we strongly recommend you read these articles to familiarize yourself with the nuances. Border police CAN search any electronic device at airports/borders without a warrant, regardless of your status. Your rights depend on your immigration status: US Citizens cannot be denied entry and must only answer identity questions. Green Card Holders cannot be denied entry without a hearing. Visa Holders can be denied entry for refusing searches.
 
   **Equipment & Costs:**
   - Secondary smartphone (used or new): $60+ or free if donated
@@ -477,12 +400,10 @@ Plain language steps for digital security, because protecting yourself helps kee
   - Setup time: 3 hours
   - Technical difficulty: Moderate  
   - Maintenance: 30 minutes after each use
+:::
 
-  </details>
-
-[ ] &nbsp;**How to set up the phone**
-  <details>
-  <summary>More info</summary>
+::: details &nbsp; [ ] &nbsp;**How to set up the phone**
+  We have summarized some information below, but we strongly recommend you read these articles to familiarize yourself with the nuances. Border police CAN search any electronic device at airports/borders without a warrant, regardless of your status. Your rights depend on your immigration status: US Citizens cannot be denied entry and must only answer identity questions. Green Card Holders cannot be denied entry without a hearing. Visa Holders can be denied entry for refusing searches.
 
   Factory reset device if used. Skip/decline all optional setup (phone, location tracking, analytics, cloud backup). **IMPORTANT:** Do NOT sign in with normal Apple/Google Account during setup - look for 'skip' button. Activate phone BEFORE making Apple/Google account since they require phone number and you want to use new number.
 
@@ -495,12 +416,10 @@ Plain language steps for digital security, because protecting yourself helps kee
      - Account sign-in (look for "Skip" buttons)
   3. **⚠️ Critical:** Never sign in with your main Apple/Google account
   4. Activate phone first, then create new accounts
+:::
 
-  </details>
-
-[ ] &nbsp;**How to set up separate Signal profile**
-  <details>
-  <summary>More info</summary>
+::: details &nbsp; [ ] &nbsp;**How to set up separate Signal profile**
+  We have summarized some information below, but we strongly recommend you read these articles to familiarize yourself with the nuances. Border police CAN search any electronic device at airports/borders without a warrant, regardless of your status. Your rights depend on your immigration status: US Citizens cannot be denied entry and must only answer identity questions. Green Card Holders cannot be denied entry without a hearing. Visa Holders can be denied entry for refusing searches.
 
   Follow standard Signal activation for new number, then set up username. Tell contacts your new Signal username by messaging from main Signal first to verify identity. Message your main Signal from new one to send info between accounts with disappearing messages on. Join minimal relevant groups and leave when no longer active/relevant.
 
@@ -513,12 +432,10 @@ Plain language steps for digital security, because protecting yourself helps kee
   6. **Clean up:** Leave groups when no longer needed
 
   **⚠️ Remember:** Every Signal group provides more data if phone is confiscated.
+:::
 
-  </details>
-
-[ ] &nbsp;**Before and after each action**
-  <details>
-  <summary>More info</summary>
+::: details &nbsp; [ ] &nbsp;**Before and after each action**
+  We have summarized some information below, but we strongly recommend you read these articles to familiarize yourself with the nuances. Border police CAN search any electronic device at airports/borders without a warrant, regardless of your status. Your rights depend on your immigration status: US Citizens cannot be denied entry and must only answer identity questions. Green Card Holders cannot be denied entry without a hearing. Visa Holders can be denied entry for refusing searches.
 
   **Before each action:** - Ensure phone number active and not expired
   - Check minutes/data remaining if not unlimited plan
@@ -529,30 +446,24 @@ Plain language steps for digital security, because protecting yourself helps kee
   - Remove Signal threads and leave unneeded groups  
   - Clear browser/navigation history
   - **If confiscated:** Consider selling and getting new phone (factory reset may not remove spyware)
-
-  </details>
-
----
+:::
 
 ## ✊ Prepare for a Protest
 
 *Protect yourself and your community while protesting or attending any kind of action where arrest risk and surveillance is higher.*
 
-[ ] &nbsp;**If arrest risk is going up, turn your phone off!**
-  <details>
-  <summary>More info</summary>
+::: details &nbsp; [ ] &nbsp;**If arrest risk is going up, turn your phone off!**
+  We have summarized some information below, but we strongly recommend you read these articles to familiarize yourself with the nuances. Border police CAN search any electronic device at airports/borders without a warrant, regardless of your status. Your rights depend on your immigration status: US Citizens cannot be denied entry and must only answer identity questions. Green Card Holders cannot be denied entry without a hearing. Visa Holders can be denied entry for refusing searches.
 
   When fully powered off, phone is more secure against data extraction by police. Data stays encrypted until you turn on and enter passcode for first time. The number one protection is turning phone off if you think you're getting closer to a risky situation. Remind others to turn off phones too. 
 
   **iPhone tip:** Press screen lock button 5 times to quickly bring up 'power off' option.
 
   **Why this works:** When powered off completely, your phone's data remains encrypted and is much harder for police to access.
+:::
 
-  </details>
-
-[ ] &nbsp;**How to disable GPS location tracking**
-  <details>
-  <summary>More info</summary>
+::: details &nbsp; [ ] &nbsp;**How to disable GPS location tracking**
+  We have summarized some information below, but we strongly recommend you read these articles to familiarize yourself with the nuances. Border police CAN search any electronic device at airports/borders without a warrant, regardless of your status. Your rights depend on your immigration status: US Citizens cannot be denied entry and must only answer identity questions. Green Card Holders cannot be denied entry without a hearing. Visa Holders can be denied entry for refusing searches.
 
   **iPhone:** Settings > Privacy & Security > Disable 'Location Services' (Shortcut: Say to Siri 'Disable location tracking'). 
 
@@ -565,12 +476,10 @@ Plain language steps for digital security, because protecting yourself helps kee
   - Download offline maps in [Organic Maps](https://organicmaps.app/)
   - Remove/disable smartwatches, AirTags, Tile trackers
   - Consider putting devices in a Faraday bag
+:::
 
-  </details>
-
-[ ] &nbsp;**How to change your passcode**
-  <details>
-  <summary>More info</summary>
+::: details &nbsp; [ ] &nbsp;**How to change your passcode**
+  We have summarized some information below, but we strongly recommend you read these articles to familiarize yourself with the nuances. Border police CAN search any electronic device at airports/borders without a warrant, regardless of your status. Your rights depend on your immigration status: US Citizens cannot be denied entry and must only answer identity questions. Green Card Holders cannot be denied entry without a hearing. Visa Holders can be denied entry for refusing searches.
 
   Generate a random 10-digit passcode (don't make one up yourself). 
 
@@ -581,24 +490,20 @@ Plain language steps for digital security, because protecting yourself helps kee
   Write new passcode on paper, keep it safe until memorized.
 
   **⚠️ Important:** Use a truly random passcode - humans are terrible at making up random numbers.
+:::
 
-  </details>
-
-[ ] &nbsp;**How to disable face/fingerprint unlock**
-  <details>
-  <summary>More info</summary>
+::: details &nbsp; [ ] &nbsp;**How to disable face/fingerprint unlock**
+  We have summarized some information below, but we strongly recommend you read these articles to familiarize yourself with the nuances. Border police CAN search any electronic device at airports/borders without a warrant, regardless of your status. Your rights depend on your immigration status: US Citizens cannot be denied entry and must only answer identity questions. Green Card Holders cannot be denied entry without a hearing. Visa Holders can be denied entry for refusing searches.
 
   **iPhone:** Settings > Face ID & Passcode > Disable 'Use Face ID for iPhone Unlock' (can leave rest enabled). 
 
   **Android:** Settings > Lock Screen (or Security) > Biometrics and Security > Disable both 'Face Recognition' and 'Fingerprint Unlock' for phone unlocking.
 
   **Why this matters:** Police can potentially force you to unlock with biometrics, but cannot force you to reveal your passcode.
+:::
 
-  </details>
-
-[ ] &nbsp;**How to install and use Signal**
-  <details>
-  <summary>More info</summary>
+::: details &nbsp; [ ] &nbsp;**How to install and use Signal**
+  We have summarized some information below, but we strongly recommend you read these articles to familiarize yourself with the nuances. Border police CAN search any electronic device at airports/borders without a warrant, regardless of your status. Your rights depend on your immigration status: US Citizens cannot be denied entry and must only answer identity questions. Green Card Holders cannot be denied entry without a hearing. Visa Holders can be denied entry for refusing searches.
 
   Install Signal on phone. Message/call existing contacts using phone number or ask for their Signal username - they must have Signal installed too. Enable disappearing messages and disable notifications showing content.
 
@@ -608,12 +513,10 @@ Plain language steps for digital security, because protecting yourself helps kee
   3. Enable disappearing messages (5-15 minutes for protests)
   4. Disable notification content display
   5. Follow complete [Signal Checklist](#signal-security-checklist) above
+:::
 
-  </details>
-
-[ ] &nbsp;**How to take photos while protecting identities**
-  <details>
-  <summary>More info</summary>
+::: details &nbsp; [ ] &nbsp;**How to take photos while protecting identities**
+  We have summarized some information below, but we strongly recommend you read these articles to familiarize yourself with the nuances. Border police CAN search any electronic device at airports/borders without a warrant, regardless of your status. Your rights depend on your immigration status: US Citizens cannot be denied entry and must only answer identity questions. Green Card Holders cannot be denied entry without a hearing. Visa Holders can be denied entry for refusing searches.
 
   Try not to capture faces when possible. Disable automatic cloud uploads (Google Photos, iCloud Photos) so you can review before uploading. If you capture faces, use the blurring tool in Signal when sending anywhere. If organizing with a known group, discuss documentation and sharing agreements in advance.
 
@@ -623,12 +526,10 @@ Plain language steps for digital security, because protecting yourself helps kee
   - **Face protection:** Use Signal's blur tool before sharing
   - **Group agreements:** Discuss photo/video protocols in advance
   - **Consider:** Photos may be used to identify and target others
+:::
 
-  </details>
-
-[ ] &nbsp;**How to use private navigation**
-  <details>
-  <summary>More info</summary>
+::: details &nbsp; [ ] &nbsp;**How to use private navigation**
+  We have summarized some information below, but we strongly recommend you read these articles to familiarize yourself with the nuances. Border police CAN search any electronic device at airports/borders without a warrant, regardless of your status. Your rights depend on your immigration status: US Citizens cannot be denied entry and must only answer identity questions. Green Card Holders cannot be denied entry without a hearing. Visa Holders can be denied entry for refusing searches.
 
   Turn off location services before leaving for the action. Keep the phone in airplane mode as much as possible so the carrier doesn't know your location. Use printed directions if possible - print from OpenStreetMap via Tor Browser for privacy. Use the Organic Maps app for private mapping - open it before leaving to download offline maps.
 
@@ -642,12 +543,10 @@ Plain language steps for digital security, because protecting yourself helps kee
   3. **Airplane mode** + saved maps
      - Prevents cell tower tracking
      - Still allows offline navigation
+:::
 
-  </details>
-
-[ ] &nbsp;**How to select phone number for arrest**
-  <details>
-  <summary>More info</summary>
+::: details &nbsp; [ ] &nbsp;**How to select phone number for arrest**
+  We have summarized some information below, but we strongly recommend you read these articles to familiarize yourself with the nuances. Border police CAN search any electronic device at airports/borders without a warrant, regardless of your status. Your rights depend on your immigration status: US Citizens cannot be denied entry and must only answer identity questions. Green Card Holders cannot be denied entry without a hearing. Visa Holders can be denied entry for refusing searches.
 
   Decide who to call if you're arrested. If there's no active jail support hotline in your area, pick an emergency contact (a friend/trusted comrade for legal support - get their consent in advance). For higher-risk actions, organizers may have established a specific legal hotline. Larger cities may have an NLG jail support hotline. Write the legal number on your body in sharpie where it won't rub off (upper arm, leg, torso).
 
@@ -662,18 +561,14 @@ Plain language steps for digital security, because protecting yourself helps kee
   **Write number on body:** Use a Sharpie on your upper arm, leg, or torso where it won't rub off.
 
   **📚 Resources:** [National Lawyers Guild Jail Support](https://www.nlg.org/know-your-rights/jail-support/)
-
-  </details>
-
----
+:::
 
 ## 🔐 Security Essentials
 
 *Essentials that everyone should do to protect themselves from surveillance and attackers.*
 
-[ ] &nbsp;**How to set up Signal**
-  <details>
-  <summary>More info</summary>
+::: details &nbsp; [ ] &nbsp;**How to set up Signal**
+  We have summarized some information below, but we strongly recommend you read these articles to familiarize yourself with the nuances. Border police CAN search any electronic device at airports/borders without a warrant, regardless of your status. Your rights depend on your immigration status: US Citizens cannot be denied entry and must only answer identity questions. Green Card Holders cannot be denied entry without a hearing. Visa Holders can be denied entry for refusing searches.
 
   Install Signal on your phone. Message existing contacts using their phone number (they must have Signal installed). For new contacts you don't trust yet, exchange usernames instead of phone numbers when possible. To start a new message: Press the 'Create' icon, then type the person's phone number or username. Follow the Signal Checklist for maximum security and privacy.
 
@@ -683,12 +578,10 @@ Plain language steps for digital security, because protecting yourself helps kee
   3. **For new/untrusted contacts:** Use usernames, not phone numbers
   4. **New message:** Press "Create" icon > enter phone number or username
   5. **Complete setup:** Follow the [Signal Checklist](#signal-security-checklist) above
+:::
 
-  </details>
-
-[ ] &nbsp;**How to set up Brave Browser**
-  <details>
-  <summary>More info</summary>
+::: details &nbsp; [ ] &nbsp;**How to set up Brave Browser**
+  We have summarized some information below, but we strongly recommend you read these articles to familiarize yourself with the nuances. Border police CAN search any electronic device at airports/borders without a warrant, regardless of your status. Your rights depend on your immigration status: US Citizens cannot be denied entry and must only answer identity questions. Green Card Holders cannot be denied entry without a hearing. Visa Holders can be denied entry for refusing searches.
 
   Install Brave (a privacy-focused browser that supports Chrome extensions) on your computer/phone. Import your configuration from Chrome/other browsers. Configure Settings > Shields: Select 'Aggressive' for trackers & ads blocking, 'Strict' for HTTPS upgrade, and uncheck social media blocking. Optional: Enable 'Forget me when I close this site,' disable the new tab page, and disable toolbar items (Brave Rewards, VPN, Wallet, Leo AI).
 
@@ -703,12 +596,10 @@ Plain language steps for digital security, because protecting yourself helps kee
      - Enable "Forget me when I close this site"
      - Disable the new tab page
      - Remove toolbar items you don't need
+:::
 
-  </details>
-
-[ ] &nbsp;**How to set up private search**
-  <details>
-  <summary>More info</summary>
+::: details &nbsp; [ ] &nbsp;**How to set up private search**
+  We have summarized some information below, but we strongly recommend you read these articles to familiarize yourself with the nuances. Border police CAN search any electronic device at airports/borders without a warrant, regardless of your status. Your rights depend on your immigration status: US Citizens cannot be denied entry and must only answer identity questions. Green Card Holders cannot be denied entry without a hearing. Visa Holders can be denied entry for refusing searches.
 
   **Brave Search:** This is the default in Brave browser, or you can follow instructions for other browsers. 
 
@@ -722,12 +613,10 @@ Plain language steps for digital security, because protecting yourself helps kee
   3. **[Startpage](https://www.startpage.com/)** - Google results without tracking
 
   **Why this matters:** Google tracks and profiles every search you make.
+:::
 
-  </details>
-
-[ ] &nbsp;**How to run updates**
-  <details>
-  <summary>More info</summary>
+::: details &nbsp; [ ] &nbsp;**How to run updates**
+  We have summarized some information below, but we strongly recommend you read these articles to familiarize yourself with the nuances. Border police CAN search any electronic device at airports/borders without a warrant, regardless of your status. Your rights depend on your immigration status: US Citizens cannot be denied entry and must only answer identity questions. Green Card Holders cannot be denied entry without a hearing. Visa Holders can be denied entry for refusing searches.
 
   Keep all your devices current with security updates. iPhone: Check model eligibility, update the OS, and enable automatic updates. Android: Check Samsung/Pixel models, update the OS, and enable automatic updates. Mac: Ensure it's not on the 'obsolete' list, update the OS, and enable automatic App Store updates. Windows: Update the OS and enable automatic Microsoft Store updates. For other apps, check the Help menu for updates.
 
@@ -751,12 +640,10 @@ Plain language steps for digital security, because protecting yourself helps kee
   **Windows:**
   - Settings > Update & Security > Windows Update
   - Enable automatic updates
+:::
 
-  </details>
-
-[ ] &nbsp;**How to set up private mapping**
-  <details>
-  <summary>More info</summary>
+::: details &nbsp; [ ] &nbsp;**How to set up private mapping**
+  We have summarized some information below, but we strongly recommend you read these articles to familiarize yourself with the nuances. Border police CAN search any electronic device at airports/borders without a warrant, regardless of your status. Your rights depend on your immigration status: US Citizens cannot be denied entry and must only answer identity questions. Green Card Holders cannot be denied entry without a hearing. Visa Holders can be denied entry for refusing searches.
 
   **iPhone:** Apple Maps is installed by default. Go to Settings > Privacy & Security > Location Services > System Services, then disable iPhone Analytics, Routing & Traffic, and Improve Maps. 
 
@@ -769,16 +656,14 @@ Plain language steps for digital security, because protecting yourself helps kee
   2. Settings > Privacy & Security > Location Services > System Services
   3. Disable: iPhone Analytics, Routing & Traffic, Improve Maps
 
-  **Organic Maps (All devices):**
+  **Organic Maps (All devices):
   1. Install [Organic Maps](https://organicmaps.app/) ([iPhone](https://apps.apple.com/app/organic-maps/id1567437057) / [Android](https://play.google.com/store/apps/details?id=app.organicmaps))
   2. Open the app in your area to download offline maps
   3. **Benefits:** Completely private, works offline, no tracking
+:::
 
-  </details>
-
-[ ] &nbsp;**How to review location permissions**
-  <details>
-  <summary>More info</summary>
+::: details &nbsp; [ ] &nbsp;**How to review location permissions**
+  We have summarized some information below, but we strongly recommend you read these articles to familiarize yourself with the nuances. Border police CAN search any electronic device at airports/borders without a warrant, regardless of your status. Your rights depend on your immigration status: US Citizens cannot be denied entry and must only answer identity questions. Green Card Holders cannot be denied entry without a hearing. Visa Holders can be denied entry for refusing searches.
 
   **iPhone:** Settings > Privacy & Security > Location Services. Review each app: Never (best for most), Ask Next Time (rarely needed), While Using App (essential navigation only), Always (almost no app needs this). Set Photos to Never to avoid revealing location in sent photos. Disable System Services > Significant Locations. 
 
@@ -798,12 +683,10 @@ Plain language steps for digital security, because protecting yourself helps kee
   - **Allow all the time** (almost no app should have this)
 
   **⚠️ Critical:** Set the Photos app to "Never" to prevent location data from being included in shared photos.
+:::
 
-  </details>
-
-[ ] &nbsp;**How to opt out of data broker websites**
-  <details>
-  <summary>More info</summary>
+::: details &nbsp; [ ] &nbsp;**How to opt out of data broker websites**
+  We have summarized some information below, but we strongly recommend you read these articles to familiarize yourself with the nuances. Border police CAN search any electronic device at airports/borders without a warrant, regardless of your status. Your rights depend on your immigration status: US Citizens cannot be denied entry and must only answer identity questions. Green Card Holders cannot be denied entry without a hearing. Visa Holders can be denied entry for refusing searches.
 
   This process is very time-consuming to do manually, so it's recommended to pay for an automation service. Sign up for EasyOptOuts ($20/year). Fill out the form with your current/past phone numbers, emails, addresses, and housemates. After 1-2 weeks, you'll receive an email with removal details. Do separate Google searches for your name, email, phone number, and address to find any remaining sites for manual removal.
 
@@ -819,12 +702,10 @@ Plain language steps for digital security, because protecting yourself helps kee
   - Expect to spend 10+ hours
 
   **Why this matters:** Data brokers sell your personal info (address, phone, family) to anyone, including bad actors.
+:::
 
-  </details>
-
-[ ] &nbsp;**How to set up IVPN**
-  <details>
-  <summary>More info</summary>
+::: details &nbsp; [ ] &nbsp;**How to set up IVPN**
+  We have summarized some information below, but we strongly recommend you read these articles to familiarize yourself with the nuances. Border police CAN search any electronic device at airports/borders without a warrant, regardless of your status. Your rights depend on your immigration status: US Citizens cannot be denied entry and must only answer identity questions. Green Card Holders cannot be denied entry without a hearing. Visa Holders can be denied entry for refusing searches.
 
   Go to IVPN and click Generate IVPN Account ($6/month or $60/year). Select the Standard Plan (or Pro for 2+ devices). Write your Account ID somewhere safe - it cannot be recovered if lost. Enter your payment details or order a voucher card for more privacy. Download the apps for your computer/phone, install them, and enter your Account ID. Enable: Launch at login, Autoconnect on launch, and Allow background daemon. Keep the VPN on at all times unless you're having connection issues.
 
@@ -837,12 +718,10 @@ Plain language steps for digital security, because protecting yourself helps kee
   6. **Configure:** Enable launch at login, autoconnect, and background daemon
 
   **Alternative:** [Mullvad VPN](https://mullvad.net/) - Similar privacy focus, accepts cash payments
+:::
 
-  </details>
-
-[ ] &nbsp;**How to set up 1Password**
-  <details>
-  <summary>More info</summary>
+::: details &nbsp; [ ] &nbsp;**How to set up 1Password**
+  We have summarized some information below, but we strongly recommend you read these articles to familiarize yourself with the nuances. Border police CAN search any electronic device at airports/borders without a warrant, regardless of your status. Your rights depend on your immigration status: US Citizens cannot be denied entry and must only answer identity questions. Green Card Holders cannot be denied entry without a hearing. Visa Holders can be denied entry for refusing searches.
 
   Download and install 1Password ($3/month). Create a strong, random master password using a passphrase generator - it should be memorable but not used elsewhere. Write the master password on paper and destroy it after you've memorized it. Import your existing passwords, and install the browser extension and mobile app. Update your most important passwords using the random generator if you were re-using similar ones.
 
@@ -858,12 +737,10 @@ Plain language steps for digital security, because protecting yourself helps kee
   **⚠️ Security Note:** Your master password protects everything - make it strong and unique.
 
   **Free Alternative:** [Bitwarden](https://bitwarden.com/) offers similar features at no cost.
+:::
 
-  </details>
-
-[ ] &nbsp;**How to set up two-factor authentication**
-  <details>
-  <summary>More info</summary>
+::: details &nbsp; [ ] &nbsp;**How to set up two-factor authentication**
+  We have summarized some information below, but we strongly recommend you read these articles to familiarize yourself with the nuances. Border police CAN search any electronic device at airports/borders without a warrant, regardless of your status. Your rights depend on your immigration status: US Citizens cannot be denied entry and must only answer identity questions. Green Card Holders cannot be denied entry without a hearing. Visa Holders can be denied entry for refusing searches.
 
   Install an authenticator app: 1Password (which has a built-in authenticator) or Ente Auth. Optional: Create an account for backup (Ente encrypts your data). Set up 2FA on your accounts: Go to the Security/Privacy settings and look for '2FA'/'two-factor'/'multi-factor authentication'. Select the 'authenticator app' option if it's available (and save the backup codes in your password manager). If only SMS is available, use that. Common sites to secure include Google, Apple ID, Facebook, Twitter/X, and Instagram.
 
@@ -887,12 +764,10 @@ Plain language steps for digital security, because protecting yourself helps kee
   - Work accounts
 
   **📚 Check which sites support 2FA:** [2FA Directory](https://2fa.directory/)
+:::
 
-  </details>
-
-[ ] &nbsp;**How to use Proton Mail**
-  <details>
-  <summary>More info</summary>
+::: details &nbsp; [ ] &nbsp;**How to use Proton Mail**
+  We have summarized some information below, but we strongly recommend you read these articles to familiarize yourself with the nuances. Border police CAN search any electronic device at airports/borders without a warrant, regardless of your status. Your rights depend on your immigration status: US Citizens cannot be denied entry and must only answer identity questions. Green Card Holders cannot be denied entry without a hearing. Visa Holders can be denied entry for refusing searches.
 
   Sign up for a free ProtonMail account. Choose a random username that's not connected to your identity. When verifying that you're human, choose 'CAPTCHA,' not 'email.' When asked for a recovery method, choose 'Maybe later' (but you must save your password securely). Messages between Proton users are automatically end-to-end encrypted. Messages to other providers are not encrypted, but you can send a password-protected email.
 
@@ -909,10 +784,7 @@ Plain language steps for digital security, because protecting yourself helps kee
   - **Still beneficial:** It's harder for the government to access via backdoors
 
   **📚 More Info:** [Proton Security Features](https://proton.me/security)
-
-  </details>
-
----
+:::
 
 ## 📚 Additional Resources
 
@@ -942,5 +814,5 @@ Plain language steps for digital security, because protecting yourself helps kee
 ::: warning
 This information is for educational purposes. Laws and technologies change frequently. Always consult with legal experts and security professionals for your specific situation.
 
-*This guide is based on content from [ActivistChecklist.org](https://activistchecklist.org/) 
+This guide is based on content from [ActivistChecklist](ActivistChecklist.org), which I read and modified based on a stricter threat model.
 :::

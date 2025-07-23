@@ -90,6 +90,7 @@ sidebar: [
   {
     text: 'Bonus Section',
     items: [
+      { text: 'Security Checklist', link: '/activist-checklists' },
       { text: 'Large Language Models', link: '/bonus#large-language-models-llms' },
       { text: 'VPS and Domains', link: '/bonus#vps-and-internet-domains' }
     ]
