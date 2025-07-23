@@ -1,4 +1,5 @@
 import { defineConfig } from 'vitepress'
+import checkbox from 'markdown-it-checkbox'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -8,6 +9,15 @@ export default defineConfig({
   sitemap: {
     hostname: 'https://privacyactivistkit.org'
 },
+  markdown: {
+    config(md) {
+      md.use(checkbox, {
+        divWrap: false,
+        divClass: 'checkbox',
+        idPrefix: 'cbx_'
+      })
+    }
+  },
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
