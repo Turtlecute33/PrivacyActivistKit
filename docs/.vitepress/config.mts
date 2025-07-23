@@ -7,7 +7,7 @@ export default defineConfig({
   description: "A complete guide to digital self-defense for activists, journalists, and everyone else.",
   sitemap: {
     hostname: 'https://privacyactivistkit.org'
-}
+},
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
