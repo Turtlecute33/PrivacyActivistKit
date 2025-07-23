@@ -939,8 +939,8 @@ Plain language steps for digital security, because protecting yourself helps kee
 - **ACLU Know Your Rights:** [aclu.org/know-your-rights](https://www.aclu.org/know-your-rights/)
 - **Stop AAPI Hate Travel Guide:** For border crossing rights
 
----
+::: warning
+This information is for educational purposes. Laws and technologies change frequently. Always consult with legal experts and security professionals for your specific situation.
 
-*This guide is based on content from [ActivistChecklist.org](https://activistchecklist.org/) - Plain language steps for digital security, built by activists for activists with field-tested, community-verified guides.*
-
-**⚠️ Disclaimer:** This information is for educational purposes. Laws and technologies change frequently. Always consult with legal experts and security professionals for your specific situation.
+*This guide is based on content from [ActivistChecklist.org](https://activistchecklist.org/) 
+:::
