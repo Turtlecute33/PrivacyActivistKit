@@ -814,5 +814,5 @@ I'm still tweaking the sections on this page. All the checklists are correct and
 ::: warning
 This information is for educational purposes. Laws and technologies change frequently. Always consult with legal experts and security professionals for your specific situation.
 
-This guide is based on content from [ActivistChecklist](ActivistChecklist.org), which I read and modified based on a stricter threat model.
+This guide is based on content from [ActivistChecklist](https://ActivistChecklist.org), which I read and modified based on a stricter threat model.
 :::
