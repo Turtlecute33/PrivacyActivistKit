@@ -1,6 +1,6 @@
 <style>
   input[type="checkbox"] {
-  transform: scale(1.2);     /* Increase size (1.5x normal) */
+  transform: scale(1.25);     /* Increase size (1.5x normal) */
   margin-right: 9px;  
   margin-left: 9px;        /* Optional: space between checkbox and text */
   vertical-align: middle;    /* Keeps checkbox aligned with text */
