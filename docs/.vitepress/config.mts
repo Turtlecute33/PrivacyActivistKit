@@ -89,3 +89,9 @@ sidebar: [
     ]
   }
 })
+
+export default {
+  sitemap: {
+    hostname: 'https://example.com'
+  }
+}
