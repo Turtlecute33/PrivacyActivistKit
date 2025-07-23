@@ -9,9 +9,9 @@ You will learn to:
 -   Communicate with others without being monitored.
 -   And much more.
 
-> ### A Marathon, Not a Sprint
->
-> Please don't feel overwhelmed or expect to follow all these steps in a single day; that would be impossible. Think of this as building a fortress. You start with a strong foundation and then build up the walls brick by brick. Feel free to jump between sections and come back to topics later. All parts of this guide are important, but none are mandatory. Progress at your own pace.
+::: tip
+Please don't feel overwhelmed or expect to follow all these steps in a single day; that would be impossible. Think of this as building a fortress. You start with a strong foundation and then build up the walls brick by brick. Feel free to jump between sections and come back to topics later. All parts of this guide are important, but none are mandatory. Progress at your own pace.
+:::
 
 At the beginning of each section, you will see a star rating to indicate the difficulty:
 
@@ -19,7 +19,9 @@ At the beginning of each section, you will see a star rating to indicate the dif
 -   ★★: **Medium** - May require some patience or learning a new tool.
 -   ★★★: **Difficult** - For those who want a deeper dive into technical concepts.
 
-> **Disclaimer:** I am in no way affiliated with or paid by any of the services mentioned in this guide. These recommendations are based on my own research and personal use.
+::: info
+I am in no way affiliated with or paid by any of the services mentioned in this guide. These recommendations are based on my own research and personal use.
+:::
 
 ## Understanding Privacy in the Digital Age
 
@@ -36,6 +38,8 @@ It may sound like a plot from a dystopian novel, but the reality is that corpora
 *   **The Threat of Data Breaches:** The vast troves of personal data being collected are a prime target for hackers and cybercriminals. A single data breach can expose everything from your username and password to your financial information, government identification, and other sensitive personal details. This can lead to identity theft, financial loss, and other serious consequences.
 
 The common refrain of "I have nothing to hide" is a dangerous and misleading argument. Privacy is not about having secrets to keep; it's about having the fundamental right to control your own information and your own life. We all have aspects of our lives that we wouldn't want to broadcast to the world, and that is a perfectly normal and healthy part of being human. Privacy is a cornerstone of individual autonomy and a vital component of a free and democratic society. It empowers us to be our authentic selves, to explore new ideas without fear of judgment, and to live our lives without being constantly monitored and manipulated.
+
+![Minimalist illustration in soft purple tones showing a person silhouette, a padlock, a computer screen with an eye symbol, and an ID card. The image represents digital privacy, surveillance, and data protection.](public/549a4229-242b-488f-8473-884278135b03.webp)
 
 ### The Crucial Differences: Privacy, Security, and Anonymity
 
