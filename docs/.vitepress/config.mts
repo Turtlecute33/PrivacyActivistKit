@@ -92,6 +92,6 @@ sidebar: [
 
 export default {
   sitemap: {
-    hostname: 'https://example.com'
+    hostname: 'https://privacyactivistkit.org'
   }
 }
