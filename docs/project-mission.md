@@ -6,6 +6,9 @@ This site was built for people who care about privacy, justice, and digital auto
 
 Clear, practical resources to help you take control of your digital life without the corporate fluff.
 
+::: warning
+I'm still working on this project, you can consider it in Alpha stage, the contents needs to be expanded, polished and improved. Expect changes and improvements in the next weeks :D
+:::
 
 ## What is it?
 
