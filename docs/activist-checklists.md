@@ -21,7 +21,12 @@ I'm still tweaking the sections on this page. All the checklists are correct and
 *Checklist for both domestic and international flights. Also applies to land/sea border crossings.*
 
 ::: details &nbsp; [ ] &nbsp;**What are your rights when crossing the border**
-  
+  Read the following articles to learn your rights:
+  - [Know Your Rights travel guide](https://stopaapihate.org/2025/05/19/know-your-rights-when-traveling/) from stop AAPI Hate
+  - [Is it safe to travel with your phone right now?](https://www.theverge.com/policy/634264/customs-border-protection-search-phone-airport-rights) from The Verge
+  - [Can border agents search your electronic devices? It's complicated](https://www.aclu.org/news/privacy-technology/can-border-agents-search-your-electronic) from the ACLU
+::: warning
+**Border police CAN search any electronic device** at airports/borders without a warrant, regardless of your status. 
 :::
 
 ::: details &nbsp; [ ] &nbsp;**How to fully power down your device**

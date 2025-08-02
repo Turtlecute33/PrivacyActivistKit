@@ -102,9 +102,22 @@ sidebar: [
     ]
   },
   {
+    text: 'Security Checklist',
+    items: [
+      { text: 'Intro', link: '/activist-checklists.html#activist-digital-security-checklists' },
+      { text: 'Travel & Flight Security', link: '/activist-checklists.html#%E2%9C%88%EF%B8%8F-travel-flight-security' },
+      { text: 'Digital Security', link: '/activist-checklists.html#%F0%9F%8F%9B%EF%B8%8F-digital-security-for-federal-workers' },
+      { text: 'Signal Security Checklist', link: '/activist-checklists.html#%F0%9F%93%B1-signal-security-checklist' },
+      { text: 'Digital Security for Direct Action Organizing', link: '/activist-checklists.html#%F0%9F%93%A2-digital-security-for-direct-action-organizing' },
+      { text: 'Action Research & Scouting', link: '/activist-checklists.html#%F0%9F%94%8D-action-research-scouting' },
+      { text: 'Prepare for a Protest', link: '/activist-checklists.html#%E2%9C%8A-prepare-for-a-protest' },
+      { text: 'Security Essentials', link: '/activist-checklists.html#%F0%9F%94%90-security-essentials' },
+      { text: 'Additional Resources', link: '/activist-checklists.html#%F0%9F%93%9A-additional-resources' }
+    ]  
+  },
+  {
     text: 'Bonus Section',
     items: [
-      { text: 'Security Checklist', link: '/activist-checklists' },
       { text: 'Large Language Models', link: '/bonus#large-language-models-llms' },
       { text: 'VPS and Domains', link: '/bonus#vps-and-internet-domains' }
     ]
