@@ -1,0 +1,8 @@
+# Node.js
+node_modules
+dist
+.env
+.DS_Store
+
+# CRUSH
+.crush
