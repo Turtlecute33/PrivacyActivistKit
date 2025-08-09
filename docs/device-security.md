@@ -58,7 +58,7 @@ Windows is not a private OS by default, but you can significantly improve it. Th
 
 For most users, hardening a Linux system is not strictly necessary. However, if you have a high-threat model:
 
--   **Easy Method:** I wrote a simple [**bash script**](https://github.com/turtlecute/LHS) to apply some basic hardening rules.
+-   **Easy Method:** I wrote a simple [**bash script**](https://github.com/Turtlecute33/Hardening-linux-script) to apply some basic hardening rules.
 -   **Advanced Method:** The [**PrivSec blog**](https://privsec.dev/posts/linux/desktop-hardening-guide/) has an excellent, in-depth guide for locking down a Linux desktop.
 
 ---
