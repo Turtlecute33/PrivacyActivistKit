@@ -13,10 +13,10 @@ The **Privacy Activist Kit** is a free, open source hub of privacy tools, guides
 
 You’ll find:
 
-*   🛠️ tools and services
+*   🛠️ Tools and services
 *   📚 Guides tailored to real life needs
 *   👩🏽‍🏫 Workshop friendly teaching resources
-*   🧩 Clear, jargon free explanations
+*   🧩 Clear, jargon-free explanations
 
 
 ## Why We Made This
@@ -36,7 +36,7 @@ This kit was created with a few core beliefs:
 ## What's Inside
 
 *   Privacy Tools: A curated list of secure browsers, messaging apps, email services, search engines, VPNs, Tor tools, and file sharing platforms.
-*   Guides (Coming Soon): Easy to understand, printable lessons on encryption, metadata, threat modeling, protest safety, and more.
+*   Guides (Coming Soon): Easy-to-understand, printable lessons on encryption, metadata, threat modeling, protest safety, and more.
 *   Activist Resources (Coming Soon): Practical tools like security checklists, burner phone tips, VPN flowcharts, and emergency prep.
 *   Shareables (Coming Soon): Posters, zines, slides, and social media visuals for easy, engaging knowledge sharing.
 
