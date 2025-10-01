@@ -46,10 +46,16 @@ Found a problem? [Open an issue](https://github.com/Turtlecute33/PrivacyActivist
 
 ### Making Changes
 
-1. **Fork the repository** to your own GitHub account
-2. **Clone your fork** locally:
+1. **Fork the repository** to your own GitHub account using the Fork button on GitHub
+2. **Clone your fork** locally (replace `YOUR-USERNAME` with your actual GitHub username):
    ```bash
    git clone https://github.com/YOUR-USERNAME/PrivacyActivistKit.git
+   cd PrivacyActivistKit
+   ```
+
+   Or clone the main repository directly if you just want to preview locally:
+   ```bash
+   git clone https://github.com/Turtlecute33/PrivacyActivistKit.git
    cd PrivacyActivistKit
    ```
 3. **Install dependencies**:
@@ -60,19 +66,22 @@ Found a problem? [Open an issue](https://github.com/Turtlecute33/PrivacyActivist
    ```bash
    git checkout -b your-branch-name
    ```
-5. **Make your changes** and test them locally:
+5. **Run the development server** to preview your changes:
    ```bash
    npm run docs:dev
    ```
-6. **Commit your changes** with a clear, descriptive message:
+   This will start VitePress dev server at `http://localhost:5173/`
+
+6. **Make your changes** - the site will auto-reload as you edit files
+7. **Commit your changes** with a clear, descriptive message:
    ```bash
    git commit -m "Add brief description of your changes"
    ```
-7. **Push to your fork**:
+8. **Push to your fork**:
    ```bash
    git push origin your-branch-name
    ```
-8. **Open a Pull Request** from your fork to the main repository
+9. **Open a Pull Request** from your fork to the main repository
 
 ## Content Guidelines
 
