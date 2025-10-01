@@ -115,10 +115,6 @@ When contributing content to the Privacy Activist Kit, please follow these princ
 - **Fear-mongering**: Be honest about risks without creating unnecessary panic
 - **Personal opinions as facts**: Clearly distinguish recommendations from personal preferences
 
-## Code of Conduct
-
-This project is committed to providing a welcoming environment for all contributors. Please read and follow our [Code of Conduct](CODE_OF_CONDUCT.md).
-
 ## License
 
 By contributing to this project, you agree that your contributions will be licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](LICENSE).
