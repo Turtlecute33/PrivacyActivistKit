@@ -5,18 +5,21 @@ import checkbox from 'markdown-it-checkbox'
 export default defineConfig({
       head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
-    ['link', { rel: 'preload', href: '/assets/inter-italic-latin-ext.CN1xVJS-.woff2', as: 'font', type: 'font/woff2', crossorigin: '' }],
-    ['link', { rel: 'preload', href: '/assets/inter-roman-latin-ext.4ZJIpNVo.woff2', as: 'font', type: 'font/woff2', crossorigin: '' }],
+    ['link', { rel: 'preload', href: '/assets/inter-italic-latin-ext.CN1xVJS-.woff2', as: 'font', type: 'font/woff2', crossorigin: 'anonymous' }],
+    ['link', { rel: 'preload', href: '/assets/inter-roman-latin-ext.4ZJIpNVo.woff2', as: 'font', type: 'font/woff2', crossorigin: 'anonymous' }],
+    // SEO
+    ['link', { rel: 'canonical', href: 'https://privacyactivistkit.org' }],
     // Open Graph
     ['meta', { property: 'og:title', content: 'Privacy Activist Kit' }],
     ['meta', { property: 'og:description', content: 'A complete guide to digital self-defense for activists, journalists, and everyone else.' }],
-    ['meta', { property: 'og:image', content: '/pak.jpg' }],
+    ['meta', { property: 'og:image', content: 'https://privacyactivistkit.org/pak.jpg' }],
     ['meta', { property: 'og:url', content: 'https://privacyactivistkit.org' }],
+    ['meta', { property: 'og:type', content: 'website' }],
     // Twitter Card
     ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
     ['meta', { name: 'twitter:title', content: 'Privacy Activist Kit' }],
     ['meta', { name: 'twitter:description', content: 'A complete guide to digital self-defense for activists, journalists, and everyone else.' }],
-    ['meta', { name: 'twitter:image', content: '/pak.jpg' }]
+    ['meta', { name: 'twitter:image', content: 'https://privacyactivistkit.org/pak.jpg' }]
   ],
   title: "Privacy Activist Kit",
   description: "A complete guide to digital self-defense for activists, journalists, and everyone else.",

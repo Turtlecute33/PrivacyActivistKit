@@ -108,11 +108,11 @@ When contributing content to the Privacy Activist Kit, please follow these princ
 
 ## Code of Conduct
 
-This project is committed to providing a welcoming environment for all contributors. Please read and follow our [Code of Conduct](https://github.com/Turtlecute33/PrivacyActivistKit/blob/main/CODE_OF_CONDUCT.md).
+This project is committed to providing a welcoming environment for all contributors. Please read and follow our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## License
 
-By contributing to this project, you agree that your contributions will be licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://github.com/Turtlecute33/PrivacyActivistKit/blob/main/LICENSE).
+By contributing to this project, you agree that your contributions will be licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](LICENSE).
 
 This means:
 - Your contributions can be freely shared and adapted

@@ -30,7 +30,7 @@ An "asset" is anything you value and want to protect. In the digital world, this
 * Your location history and contact lists
 * Your financial information
 * The identity of your contacts
-* Your Browse habits
+* Your browsing habits
 
 *Action: Make a list of your data assets, where they are stored, who has access, and what currently prevents others from accessing them.*
 
@@ -72,8 +72,8 @@ Write down the options available to you and be realistic about any financial, te
 
 Here’s how different people might approach threat modeling:
 
-* <span style="color:#9b59b6;"><strong>Scenario 1:</strong></span> The Everyday User  
-    * **Assets:** Browse history, shopping habits, emails.  
+* <span style="color:#9b59b6;"><strong>Scenario 1:</strong></span> The Everyday User
+    * **Assets:** Browsing history, shopping habits, emails.  
     * **Threat Actor:** Tech companies and advertisers.  
     * **Consequences of Failure:** Annoying targeted ads, manipulation of purchasing decisions.  
     * **Strategy:** Use a private browser, a good ad-blocker, and a privacy-focused email service. This is a low-effort, high-reward strategy.
@@ -99,7 +99,7 @@ Once you have a model, you can choose the right tools and strategies. Here are s
 
 Privacy is impossible without security. Using private tools is pointless if an attacker can easily exploit your device and access your data.
 
-* **Compartmentalization:** To minimize the damage a malicious app can do, you should use security by compartmentalization. This can mean using different computers or virtual machines for different tasks (e.g., one for banking, one for general Browse).
+* **Compartmentalization:** To minimize the damage a malicious app can do, you should use security by compartmentalization. This can mean using different computers or virtual machines for different tasks (e.g., one for banking, one for general browsing).
 * **Secure Operating Systems:** Mobile operating systems like Android and iOS are generally more secure than desktop operating systems because their apps are sandboxed, meaning they are isolated from the core system and each other. On desktop, operating systems like Qubes OS are designed with a strong focus on security through virtualization.
 * **Physical Security:** If you are concerned about physical attacks, use an operating system with secure verified boot (like iOS, Android, or macOS) and always enable full-disk encryption.
 

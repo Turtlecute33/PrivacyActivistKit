@@ -662,7 +662,7 @@ I'm still tweaking the sections on this page. All the checklists are correct and
   2. Settings > Privacy & Security > Location Services > System Services
   3. Disable: iPhone Analytics, Routing & Traffic, Improve Maps
 
-  **Organic Maps (All devices):
+  **Organic Maps (All devices):**
   1. Install [Organic Maps](https://organicmaps.app/) ([iPhone](https://apps.apple.com/app/organic-maps/id1567437057) / [Android](https://play.google.com/store/apps/details?id=app.organicmaps))
   2. Open the app in your area to download offline maps
   3. **Benefits:** Completely private, works offline, no tracking
@@ -802,7 +802,7 @@ I'm still tweaking the sections on this page. All the checklists are correct and
 - **[IVPN](https://www.ivpn.net/)** - No-logs VPN service
 - **[1Password](https://1password.com/)** - Password manager
 - **[Proton Mail](https://proton.me/mail)** - Encrypted email
-- **[Tor Browser](https://www.torproject.org/)** - Anonymous web Browse
+- **[Tor Browser](https://www.torproject.org/)** - Anonymous web browsing
 
 ### 📖 Further Reading
 

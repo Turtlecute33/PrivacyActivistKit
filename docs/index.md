@@ -11,7 +11,7 @@ hero:
       text: Get started
       link: /project-mission
     - theme: alt
-      text: Github
+      text: GitHub
       link: https://github.com/Turtlecute33/PrivacyActivistKit
 
 features:
