@@ -101,7 +101,14 @@ sidebar: [
   {
     text: 'Bitcoin',
     items: [
-      { text: 'Use Bitcoin Privately', link: '/bitcoin#how-to-use-bitcoin-privately' }
+      { text: 'Bitcoin Privacy', link: '/bitcoin#bitcoin-privacy' },
+      { text: 'UTXOs and Transactions', link: '/bitcoin#utxos-fees-and-transactions' },
+      { text: 'Full Node', link: '/bitcoin#the-full-node' },
+      { text: 'Chain Analysis', link: '/bitcoin#chain-analysis' },
+      { text: 'Wallets and Security', link: '/bitcoin#wallets-security-and-seed' },
+      { text: 'Acquiring Bitcoin', link: '/bitcoin#acquiring-bitcoin' },
+      { text: 'Defense Strategies', link: '/bitcoin#how-to-defend-yourself' },
+      { text: 'CoinJoin', link: '/bitcoin#coinjoin' }
     ]
   },
   {
