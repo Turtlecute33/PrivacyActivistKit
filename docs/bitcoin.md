@@ -1,18 +1,6 @@
-# How to Use Bitcoin Privately
+# Bitcoin Privacy
 
 **Difficulty:** ★★★
-
-Welcome to this comprehensive guide on Bitcoin privacy!
-
-Bitcoin privacy is a complex topic, full of nuances, and requires time to be truly understood. In these pages, you'll discover the basics of how Bitcoin works so you can use it privately without fear of making mistakes. You'll learn to recognize the patterns that Chainalysis and other surveillance companies use, discover the most useful tools to disconnect your bitcoin from your identity, and see how to store them long-term with a privacy-focused approach.
-
-Your best ally when learning something about technology is curiosity. In this guide, you'll find various wallets, sites, tools, and software. Don't feel intimidated to try new programs and don't be afraid to make mistakes: errors are part of the learning process!
-
-I'll guide you step by step in using each tool mentioned, so experiment and play with those that seem most interesting to you. Practice reduces the possibility of errors and will make you feel more confident when using them in real situations.
-
-*I am in no way affiliated with or paid by any of the services mentioned. I personally use most of the software you'll find in this manual.*
-
-## Bitcoin Privacy
 
 Banks and law enforcement say Bitcoin is a tool of the devil, useful only to criminals for laundering money and committing crimes, while detractors claim that the blockchain, being transparent, will condemn us to total surveillance because everything is transparent and traceable. So where is the truth?
 
