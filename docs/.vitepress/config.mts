@@ -41,6 +41,7 @@ export default defineConfig({
       { text: 'Home', link: '/' },
       { text: 'Guide', link: '/project-mission' }
     ],
+cleanUrls: true,
 sidebar: [
   {
     text: 'About',
