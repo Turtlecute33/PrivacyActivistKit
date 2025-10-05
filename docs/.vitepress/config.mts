@@ -26,6 +26,12 @@ export default defineConfig({
   sitemap: {
     hostname: 'https://privacyactivistkit.org'
 },
+  transformHead: ({ pageData }) => {
+    const canonicalUrl = `https://privacyactivistkit.org/${pageData.relativePath.replace(/((^|\/)index)?\.md$/, '$2')}`
+    return [
+      ['link', { rel: 'canonical', href: canonicalUrl }]
+    ]
+  },
   markdown: {
     config(md) {
       md.use(checkbox, {
