@@ -1,4 +1,9 @@
-## The Operating System: Your Digital Foundation
+---
+title: "Device Security and OS Hardening | Privacy Activist Kit"
+description: "Learn how to secure your operating system, reduce surveillance risk, and harden your devices for stronger privacy."
+---
+
+# The Operating System: Your Digital Foundation
 
 **Difficulty:** ★★
 

@@ -1,3 +1,8 @@
+---
+title: "Activist Digital Security Checklists | Privacy Activist Kit"
+description: "Actionable digital security checklists for activists, travel, protest preparation, communication safety, and operational security."
+---
+
 <style>
   input[type="checkbox"] {
   transform: scale(1.25);     /* Increase size (1.5x normal) */

@@ -1,4 +1,9 @@
-## Email: Your Digital Mailbox
+---
+title: "Secure Communication: Email, PGP, Messaging | Privacy Activist Kit"
+description: "Protect your communications with private email providers, encryption basics, and secure messaging best practices."
+---
+
+# Email: Your Digital Mailbox
 
 **Difficulty:** ★
 

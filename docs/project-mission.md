@@ -1,6 +1,11 @@
+---
+title: "Privacy Activist Kit Mission | Privacy Activist Kit"
+description: "Learn the mission behind Privacy Activist Kit and how this open-source project helps activists, journalists, and beginners improve digital self-defense."
+---
+
 # 🕊️ Privacy Activist Kit: Tools for Digital Freedom
 
-Welcome to [PrivacyActivistKit](https://privacyactivistkit.org/#/)!
+Welcome to [PrivacyActivistKit](https://privacyactivistkit.org)!
 
 This site was built for people who care about privacy, justice, and digital autonomy. Whether you're organizing a protest, teaching a class, helping a friend secure their phone, or just starting to explore the world of privacy, this kit is here to help.
 

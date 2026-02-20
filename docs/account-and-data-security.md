@@ -1,4 +1,9 @@
-## Passwords and 2FA
+---
+title: "Account and Data Security Checklist | Privacy Activist Kit"
+description: "Protect accounts and personal data with strong passwords, 2FA, private cloud choices, and metadata hygiene."
+---
+
+# Passwords and 2FA
 
 **Difficulty:** ★
 

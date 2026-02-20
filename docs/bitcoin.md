@@ -1,3 +1,8 @@
+---
+title: "Bitcoin Privacy Guide | Privacy Activist Kit"
+description: "Learn Bitcoin privacy fundamentals including UTXOs, wallet hygiene, chain analysis risks, and practical privacy strategies."
+---
+
 # Bitcoin Privacy
 
 **Difficulty:** ★★★

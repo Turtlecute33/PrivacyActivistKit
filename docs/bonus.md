@@ -1,4 +1,9 @@
-## Large Language Models (LLMs)
+---
+title: "Privacy Bonus Guides: AI, VPS, Domains | Privacy Activist Kit"
+description: "Explore bonus privacy guides on local AI tools, VPS security basics, and domain privacy for independent digital infrastructure."
+---
+
+# Large Language Models (LLMs)
 
 **Difficulty:** ★★
 

@@ -1,3 +1,8 @@
+---
+title: "Contribute to Privacy Activist Kit | Privacy Activist Kit"
+description: "Learn how to contribute content, report issues, and improve Privacy Activist Kit through community-driven collaboration."
+---
+
 # Contributing to Privacy Activist Kit
 
 Thank you for considering contributing to the Privacy Activist Kit! This project exists to help people protect their digital privacy, and your contributions help make that mission stronger.

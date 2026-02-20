@@ -1,4 +1,9 @@
-## Introduction
+---
+title: "Introduction to Digital Privacy | Privacy Activist Kit"
+description: "Start your digital privacy journey with practical beginner guidance on privacy, threat awareness, and secure habits."
+---
+
+# Introduction
 
 Welcome to the definitive guide to digital privacy. This is an introductory manual designed to empower you as a **sovereign individual**. This guide will teach you how to reclaim control over your digital identity.
 

@@ -1,4 +1,9 @@
-## VPN (Virtual Private Network)
+---
+title: "Online Anonymity: VPN, Tor, DNS, Browsers | Privacy Activist Kit"
+description: "Improve online anonymity with practical guidance on VPNs, Tor, DNS privacy, and privacy-focused browsers and search engines."
+---
+
+# VPN (Virtual Private Network)
 
 **Difficulty:** ★
 

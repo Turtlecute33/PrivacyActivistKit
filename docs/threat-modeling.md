@@ -1,3 +1,8 @@
+---
+title: "Threat Modeling Guide for Digital Privacy | Privacy Activist Kit"
+description: "Understand threat modeling to identify who you are defending against and choose realistic privacy protections that fit your risk profile."
+---
+
 # Who Are You Defending Against? A Guide to Threat Modeling
 
 **Difficulty:** ★
